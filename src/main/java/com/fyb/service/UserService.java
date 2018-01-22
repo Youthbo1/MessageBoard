@@ -27,4 +27,18 @@ public class UserService {
     }
 
 
+    public User getUserById(Long id){
+        return userDAO.getUserById(id);
+    }
+
+
+    /**
+     * 修改用户信息
+     * @param user
+     * @return
+     */
+    public boolean updateUser(User user) {
+        return userDAO.updateUser(user);
+    }
+
 }

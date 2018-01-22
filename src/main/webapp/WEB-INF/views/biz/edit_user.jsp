@@ -11,7 +11,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <a class="navbar-brand" href="#">
-                        慕课网留言板个人信息
+                        留言板个人信息
                     </a>
                 </div>
             </div>
@@ -70,7 +70,7 @@
             </form>
         </div>
         <footer class="text-center" >
-            copy@imooc
+            copy@fyb
         </footer>
     </body>
 </html>
