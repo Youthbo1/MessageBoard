@@ -1,5 +1,7 @@
 # MessageBoard
-留言板
+留言板<br>
+jsp+servlet+jdbc   <br>
+servlet+service+dao
 <hr>
 1-22<br>
 今天去面试了下，是回郑州后的第一场面试。是个外包公司，哎，不考我算法的公司真的没必要再去面了。
